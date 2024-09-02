@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Портфолио Фуллстек Разработчика</title>
+</head>
+<body>
+    <header>
+        <h1>Привет! Я [Твое Имя]</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">О себе</a></li>
+                <li><a href="#projects">Проекты</a></li>
+                <li><a href="#contact">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>О себе</h2>
+        <p>Я фуллстек разработчик с опытом работы в [твой опыт].</p>
+    </section>
+
+    <section id="projects">
+        <h2>Проекты</h2>
+        <!-- Добавь свои проекты здесь -->
+    </section>
+    
+    <section id="contact">
+        <h2>Контакты</h2>
+        <p>Email: <a href="mailto:ваш_емейл@пример.com">ваш_емейл@пример.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 [Твое Имя]</p>
+    </footer>
+</body>
+</html>
